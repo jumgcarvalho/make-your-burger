@@ -79,5 +79,5 @@ Para que a aplicação funcione corretamente, você precisa iniciar **dois servi
 
 Desenvolvido por **Júlia Carvalho**
 
--   **LinkedIn:** [https://www.linkedin/in/jumgcarvalho)
+-   **LinkedIn:** [https://www.linkedin.com/in/jumgcarvalho)
 -   **GitHub:** [https://github.com/jumgcarvalho]
